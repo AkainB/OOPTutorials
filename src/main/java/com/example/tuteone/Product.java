@@ -1,4 +1,4 @@
-package uk.ac.westminster.products_api;
+package com.example.tuteone;
 
 public class Product {
 

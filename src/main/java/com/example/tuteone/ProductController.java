@@ -1,4 +1,4 @@
-package uk.ac.westminster.products_api;
+package com.example.tuteone;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
